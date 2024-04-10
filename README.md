@@ -7,7 +7,7 @@ install all other deb files needed.
 
 apt-get update
 
-apt-get install gdb libqt6core6 libqt6charts6 libqt6printsupport6 
+apt-get install gdb gdb-doc libqt6core6 libqt6charts6 libqt6printsupport6 
 
 dpkg -i seergdb-2.4_amd64.deb 
 
